@@ -8,13 +8,13 @@ This repository contains official certificates earned through hands-on courses, 
   Issued by Python Institute  
   [View Certificate](https://github.com/itzabhi10/Certificates/blob/main/Abhinav%20Singh%20PCAP%20Certificate.pdf?raw=true)
 
-- **Cloud Computing Basics (Cloud 101)**  
-  Issued by LearnQuest via Coursera  
-  [View Certificate](https://www.coursera.org/account/accomplishments/verify/GUWJBZDPURAI)
-
-- **Introduction to Cloud Computing**  
+- **Introduction to Java**  
   Issued by IBM via Coursera  
   [View Certificate](https://www.coursera.org/account/accomplishments/verify/LLX46O0SJX2L)
+
+- **Introduction To OOPS Using Java:**  
+  Issued by LearnQuest via Coursera  
+  [View Certificate](https://www.coursera.org/account/accomplishments/verify/GUWJBZDPURAI)
 
 - **OOPs Using Python**  
   Issued by Infosys Springboard  
